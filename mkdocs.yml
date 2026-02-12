@@ -6,7 +6,7 @@ theme:
   language: pt-BR
   logo: assets/logo.png
   favicon: assets/logo.png
-  palette: 
+  palette:
     - scheme: default
       primary: black
       accent: red
@@ -27,6 +27,7 @@ extra_css:
   - stylesheets/extra.css
 nav:
   - Home: index.md
+  - Equipe: equipe.md
   - Projetos: projetos.md
   - Publicações: publicacoes.md
   - Bolsas: bolsas.md
