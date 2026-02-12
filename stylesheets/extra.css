@@ -49,4 +49,17 @@
 .md-button--primary {
     background-color: #800020 !important;
     border-radius: 4px !important;
+    border-color: #800020 !important;
+}
+
+/* Layout dos botões de contato na equipe */
+.contact-buttons {
+    display: flex;
+    gap: 10px;
+    margin-top: 15px;
+}
+.contact-buttons a {
+    flex: 1;
+    text-align: center;
+    font-size: 0.8rem;
 }
